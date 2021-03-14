@@ -1,7 +1,7 @@
 from PIL import Image, ImageEnhance
 
 #read the image
-im = Image.open("img2.jpg")
+im = Image.open("img_2.jpg")
 
 #image brightness enhancer
 enhancer = ImageEnhance.Brightness(im)
