@@ -4,9 +4,9 @@
 
 ### Project Flow
 
-1. Make frontend in Kotlin
-2. Use firebase ML Kit in Kotlin
-3. Kotlin makes request to Rake NLTK server & also stores images in our cloud server
+1. Make frontend in Flutter
+2. Use firebase ML Kit in Flutter
+3. Flutter makes request to Rake NLTK server & also stores images in our cloud server
 4. Retrieve keywords to store them in DB
 5. We will use inbuilt speech recognition to convert speech to text
 6. Now make request to the rake server
@@ -18,7 +18,7 @@
 ### Contributors Work
 
 1. Yashraj - Node Backend & Project Head
-2. Akshay - Kotlin Frontend
+2. Akshay - Flutter Frontend
 3. Akshay - Core Python Libraries
 4. Yashraj & Akshay - Encryption Algo
-5. Yashraj - Firebase DB with node api and Kotlin
+5. Yashraj - Firebase DB with node api and Flutter
