@@ -1,5 +1,18 @@
 {
+  "name": "gasuto_js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
   "dependencies": {
-    "node-rake": "^1.0.1"
+    "express": "4.17.1",
+    "node-rake": "^1.0.1",
+    "node-tesseract-ocr": "2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon start"
   }
 }

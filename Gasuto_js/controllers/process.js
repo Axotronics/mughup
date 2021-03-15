@@ -13,7 +13,7 @@ exports.imageToText = asyncHandler(async (req, res, next) => {
   };
 
   tesseract
-    .recognize('image.jpg', config)
+    .recognize('image.jpeg', config)
     .then((text) => {
       res.status(200).json({
         success: true,

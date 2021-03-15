@@ -12,4 +12,4 @@ rapidly. Liberals and radicals searched for solutions to these issues`;
 
 const keywords = rake.generate(mytext);
 
-console.log(keywords);
+console.log({ data: keywords });
