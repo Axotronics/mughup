@@ -1,7 +1,7 @@
 const express = require('express');
-const { imageToText } = require('../controllers/process');
+const { textToKeywords } = require('../controllers/process');
 const router = express.Router();
 
-router.route('/image-to-text').get(imageToText);
+router.route('/text-to-keywords').post(textToKeywords);
 
 module.exports = router;

@@ -9,7 +9,7 @@ const apiRoutes = require('./routes');
 app.use(express.json());
 
 // Use api routes
-app.use(apiRoutes);
+app.use('/api/v1', apiRoutes);
 
 // Use error handler
 app.use(errorHandler);
