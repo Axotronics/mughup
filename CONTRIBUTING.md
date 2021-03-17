@@ -10,3 +10,12 @@
 *  Rule 6: Issues created have to be properly labeled and a thorough description of the issue must be given.
 *  Rule 7: Any issue cannot be closed without it being fully solved and necessary help being provided for the creator of the issue.
 *  Rule 8: Pull requests cannot be merged to the main branch without proper discussion and consensus and authorization from the owners of the organization.
+*  Rule 9: While contributing, the Citizen Code of Conduct must be heavily followed. Any violtions may lead to severe consequences.
+*  Rule 10: Sharing of malicious content of any sort is banned and heavily frowned upomn
+
+
+> I hope that the rules to be followed by contributors are clear to everone. These rules must be followed before contributing. 
+> 
+
+
+
