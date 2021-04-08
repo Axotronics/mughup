@@ -1,15 +1,16 @@
-# Mughup
+# imgtext
 
-> An app to mugup things by just clicking a picture and speaking... Real cool 🔥
-> This is the backend of a project: memorize.io
+A new Flutter project.
 
-## Project Structure
+## Getting Started
 
-| Name          | Working                                           | Language    |
-| ------------- | ------------------------------------------------- | ----------- |
-| gasuto_js     | API implementation of tesseract with express      | Javscript   |
-| gasuto_py     | Python implementation of tesseract                | Python      |
-| tashutso_py   | Python implementation of nltk algo with rake_nltk | Python      |
-| gasuto_java   | Java implementation of tesseract                  | Java        |
-| supichitek_py | Speech to text in python                          | Python      |
-| gasuto_cli    | CLI implementation of tesseract with shellscript  | Shellscript |
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
