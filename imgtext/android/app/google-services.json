@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671221407023",
+    "project_id": "imagetotext-cacdd",
+    "storage_bucket": "imagetotext-cacdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671221407023:android:9e36e7b21ed595a0fb55da",
+        "android_client_info": {
+          "package_name": "com.example.imgtext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671221407023-sl8abkc4rs7nkm4pkd0pgaaar70tb5d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZ345R84-lHCox6D-jQBMjNLCyvg_rQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671221407023-sl8abkc4rs7nkm4pkd0pgaaar70tb5d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
