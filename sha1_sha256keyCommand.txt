@@ -1,0 +1,1 @@
+keytool -list -v -keystore C:\Users\aksha\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
