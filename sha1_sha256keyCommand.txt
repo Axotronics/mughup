@@ -1,1 +1,3 @@
-keytool -list -v -keystore C:\Users\aksha\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+$ cd C:\Program Files\Java\%JDK_VERSION%\bin
+
+$ keytool -list -v -keystore C:\Users\%USER_PROFILE%\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
